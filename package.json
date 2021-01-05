@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/tureey/elrincondevictor#readme",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "gray-matter": "^4.0.2",
     "next": "9",
     "prop-types": "^15.7.2",
